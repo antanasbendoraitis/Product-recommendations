@@ -1,4 +1,4 @@
-# Product recommendations API
+# Product-recommendations API
 
 ## Content
 * [Challenge description](#challenge-description)
