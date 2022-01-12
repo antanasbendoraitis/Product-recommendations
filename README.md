@@ -1,3 +1,15 @@
+# Product recommendations
+
+##Challenge
+
+The prime aim were to create an application that from external source takes specific city weather imformation for 3 days, aggregates and selects products for most possible weather.
+From the technological were the biggest challenge to feel how works laravel framework because until know I have had programming experience in pure PHP and C# espiacially .net Core. 
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
