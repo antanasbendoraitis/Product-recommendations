@@ -20,8 +20,6 @@ Route::get(
     [RecommendationController::class, 'index'],
 );
 
-Route::any('{any}', function(){
-    return response()->json([
-        'message'   => 'Page Not Found',
-    ], 404);
-})->where('any', '.*');
+Route::fallback(function () {
+    return response()->json(['message' => 'Page not found'], 404);
+});
